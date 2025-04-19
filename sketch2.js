@@ -1,3 +1,5 @@
+// 사인, 코사인 도형의 벨벳 형태 움직임
+
 var song
 
 function preload(){//동일 폴더 저장 파일

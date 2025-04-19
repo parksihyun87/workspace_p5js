@@ -1,8 +1,10 @@
+// 넘실거리는 원형 커튼 모형
+
 var song
 var start=0
 
 function preload(){//동일 폴더 저장 파일
-    song=loadSound('./assets/music/ThePalaceGardens.mp3')//노래 파일||경로 삽입
+    song=loadSound('./assets/music/HoveringThoughts.mp3')//노래 파일||경로 삽입
 }
 
 function setup(){

@@ -1,3 +1,5 @@
+// 파형 입체 모형
+
 var song
 
 function preload(){//동일 폴더 저장 파일
