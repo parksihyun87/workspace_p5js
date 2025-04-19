@@ -43,6 +43,11 @@ function draw(){
 
         rect(200, 0, h, 1)
     }
+     // 글씨 추가
+     fill(255) // 흰색
+     textAlign(CENTER, CENTER)
+     textSize(28)
+     text("넘실거리는 생각들", 0, 0)
 
     start+=0.01
 }
