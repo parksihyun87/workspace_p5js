@@ -4,7 +4,9 @@ var song
 var start=0
 
 function preload(){//동일 폴더 저장 파일
-    song=loadSound('./assets/music/HoveringThoughts.mp3')//노래 파일||경로 삽입
+    // song=loadSound('./assets/music/HoveringThoughts.mp3')//노래 파일||경로 삽입
+    song=loadSound('./assets/music/Renunciation.mp3')
+    // song=loadSound('./assets/music/WhenTheNightComes.mp3')
 }
 
 function setup(){
