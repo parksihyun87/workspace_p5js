@@ -8,8 +8,8 @@ let centers = [];
 var song
 
 function preload(){//동일 폴더 저장 파일
-  song=loadSound('./assets/music/TheThoughtofYou.mp3')
-  // song=loadSound('./assets/music/Wander.mp3')  
+  // song=loadSound('./assets/music/TheThoughtofYou.mp3')
+  song=loadSound('./assets/music/Wander.mp3')  
   // song=loadSound('./assets/music/RhythmChanges.mp3')//노래 파일||경로 삽입
     
 }
